@@ -1,6 +1,6 @@
 {
   "name": "vue3-authentication",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Authentication and middleware provider for vue 3",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "vue 3 authentication"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@babel/types": "^7.15.6",
     "typescript": "^4.4.4",
