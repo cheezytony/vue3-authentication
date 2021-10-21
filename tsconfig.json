@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "moduleResolution": "node",
+    "strict": true,
+    "noEmit": true,
+    "noImplicitAny": false,
+    "outDir": "dist",
+    "baseUrl": ".",
+  }
+}

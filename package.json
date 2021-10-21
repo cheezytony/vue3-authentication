@@ -1,0 +1,30 @@
+{
+  "name": "vue3-authentication",
+  "version": "1.0.0",
+  "description": "Authentication and middleware provider for vue 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-3",
+    "vue 3",
+    "vue3",
+    "composition api",
+    "authentication",
+    "vue authentication",
+    "vue3 authentication",
+    "vue-3 authentication",
+    "vue 3 authentication"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/types": "^7.15.6",
+    "typescript": "^4.4.4",
+    "vue": "^3.2.20",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  }
+}
