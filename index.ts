@@ -4,7 +4,7 @@ import {
   RouteLocationNormalized,
   RouteParams,
 } from 'vue-router';
-import {
+import type {
   AuthenticationProvider,
   Middleware,
   MiddlewareCollection,
