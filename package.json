@@ -1,6 +1,6 @@
 {
   "name": "vue3-authentication",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Authentication and middleware provider for vue 3",
   "main": "lib/index.js",
   "scripts": {
