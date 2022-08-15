@@ -2,9 +2,14 @@
   "name": "vue3-authentication",
   "version": "1.0.1",
   "description": "Authentication and middleware provider for vue 3",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheezytony/vue3-authentication.git"
   },
   "keywords": [
     "vue",
@@ -18,8 +23,12 @@
     "vue-3 authentication",
     "vue 3 authentication"
   ],
-  "author": "",
+  "author": "Antonio Okoro",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheezytony/vue3-authentication/issues"
+  },
+  "homepage": "https://github.com/cheezytony/vue3-authentication#readme",
   "dependencies": {
     "@babel/types": "^7.15.6",
     "typescript": "^4.4.4",
